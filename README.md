@@ -1,6 +1,7 @@
 # Projects
 
 https://devecstatic.itch.io/mob-mall-madness
+##discord js project
 https://github.com/jojoho70/heccinbot
 
 ## here are some scripts im working on various games.
