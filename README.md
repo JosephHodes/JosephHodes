@@ -1,12 +1,12 @@
 # Projects
 
-https://devecstatic.itch.io/mob-mall-madness
+1.) https://devecstatic.itch.io/mob-mall-madness
 
 
-## Discord js project
 
 
-https://github.com/jojoho70/heccinbot
+
+1.) https://github.com/jojoho70/heccinbot
 
 ## here are some scripts im working on various games.
 https://github.com/jojoho70/Scripts
