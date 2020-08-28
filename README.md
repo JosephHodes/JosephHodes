@@ -3,7 +3,7 @@
 https://devecstatic.itch.io/mob-mall-madness
 
 
-##discord js project
+## Discord js project
 
 
 https://github.com/jojoho70/heccinbot
