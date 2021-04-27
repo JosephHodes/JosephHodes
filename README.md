@@ -8,14 +8,14 @@ Computer Vision, Computer engineering, Embedded circuits, 3d printing, full-stac
 
 # Mob Mall Madness
 is an out-of-control game where you need to get the best deals on Black Friday! Watch out for the mob; they won't let anything get in between them and their sweet, sweet deals. We made this game in 48 hours, and it is rendered in WebGL, so you can run it in the browser.
-1.) https://devecstatic.itch.io/mob-mall-madness
+https://devecstatic.itch.io/mob-mall-madness
 
 
 
 
 # Heccin Bot
 This is a bot that synchronizes bans bots across servers. Using a large server with over 60,000 users, the server's name is "cats?".
-2.) https://github.com/jojoho70/heccinbot
+https://github.com/jojoho70/heccinbot
 
 ## here are some scripts I'm working on for various games.
 https://github.com/jojoho70/Scripts
