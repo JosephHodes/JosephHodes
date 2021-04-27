@@ -12,7 +12,7 @@ Computer Vision, Computer engineering, Embedded circuits, 3d printing, full-stac
 # HomeLab
 I recently got a Dell r420 where I plan on hosting all of my projects including www.heccin.com.
 
-# pipeline
+# Pipeline
 The pipeline for the server is this (I will progressively cross these off as I finish): 
 Set up xen hypervisor.
 Upload Centos to it.
