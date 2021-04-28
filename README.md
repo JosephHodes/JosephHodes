@@ -32,6 +32,13 @@ is an out-of-control game where you need to get the best deals on Black Friday! 
 https://devecstatic.itch.io/mob-mall-madness
 
 
+# Scheduley
+Scheduley is a seven-day calendar that is still a work in progress. There are some minor features I still have to add for an entirely functional site. I have to re-implement the design because I focused on making the design in Figma, then coding the backend then implementing the actual design. The customization would be the last thing I implement.
+https://github.com/JosephHodes/Scheduely
+
+# UpScaling
+This is a build-up for my plans on an image stitcher. These just enhance the images, so it's easier for the algorithm to understand there is a lot of computer vision libraries in it.
+https://github.com/JosephHodes/UpScaling
 
 
 # Heccin Bot
@@ -41,3 +48,5 @@ https://github.com/jojoho70/heccinbot
 ## Here are some scripts I'm working on for various games.
 https://github.com/jojoho70/Scripts
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JosephHodes&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephHodes&langs_count=5&theme=tokyonight)]()
