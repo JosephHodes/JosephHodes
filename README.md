@@ -48,5 +48,9 @@ https://github.com/jojoho70/heccinbot
 ## Here are some scripts I'm working on for various games.
 https://github.com/jojoho70/Scripts
 
+
+# Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JosephHodes&count_private=true&theme=tokyonight&showicons=true)]()
+
+# Languages
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephHodes&langs_count=5&theme=tokyonight)]()
