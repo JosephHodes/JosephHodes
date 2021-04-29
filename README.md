@@ -6,7 +6,7 @@ My discord is HeccinTech#0001. If you ever need help or just a friend to nerd ou
 
 
 
-# Intrests
+# Interests
 Computer Vision, Computer engineering, Embedded circuits, 3d printing, full-stack development, Ci/CD, and DevOps. 
 
 # HomeLab
