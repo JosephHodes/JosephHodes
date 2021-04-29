@@ -4,7 +4,7 @@ I am Joseph Hodes, or if you know me on discord, HeccinTech. I am from Florida; 
 
 My discord is HeccinTech#0001. If you ever need help or just a friend to nerd out with, add me!
 
-
+![Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
 
 # Interests
 Computer Vision, Computer engineering, Embedded circuits, 3d printing, full-stack development, Ci/CD, and DevOps. 
