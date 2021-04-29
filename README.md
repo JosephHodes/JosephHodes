@@ -1,10 +1,11 @@
+![Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephHodes&show_icons=true&theme=cobalt)
+
 # About me
 I am Joseph Hodes, or if you know me on discord, HeccinTech. I am from Florida; I do programming as a hobby and hope to make it a profession one day. Like every programmer, I have so many side projects. I enjoy studying computer vision and helping out with javascript Discords. When I'm not consumed with AP Computer Science work or high school, I do 3d Printing, Programming, Computer Vision. If you give me any real-world problem, I guarantee I can solve it for you. I can pick up libraries and languages that are in the object-oriented programming paradigm really fast. I am a complete nerd; I love to learn new things.
 
 
 My discord is HeccinTech#0001. If you ever need help or just a friend to nerd out with, add me!
 
-![Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
 
 # Interests
 Computer Vision, Computer engineering, Embedded circuits, 3d printing, full-stack development, Ci/CD, and DevOps. 
