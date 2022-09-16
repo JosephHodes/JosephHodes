@@ -6,7 +6,7 @@ My discord is HeccinTech#0001. If you ever need help or just a friend to nerd ou
 
 
 # Interests
-Computer Vision, Computer engineering, Embedded circuits, 3d printing, full-stack development, Ci/CD, and DevOps. 
+Computer Vision, Computer engineering, Embedded circuits, 3d printing, full-stack development, Ci/CD, infastructure, and DevOps, applied research and scientific computing. 
 
 # HomeLab
 I recently got a Dell r420 where I plan on hosting all of my projects including www.heccin.com.
