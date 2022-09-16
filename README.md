@@ -1,5 +1,5 @@
 # About me
-I am Joseph Hodes, or if you know me on discord, HeccinTech. I am from Florida; I do programming as a hobby and hope to make it a profession one day. Like every programmer, I have so many side projects. I enjoy studying computer vision and helping out with javascript Discords. When I'm not consumed with AP Computer Science work or high school, I do 3d Printing, Programming, Computer Vision. If you give me any real-world problem, I guarantee I can solve it for you. I can pick up libraries and languages that are in the object-oriented programming paradigm really fast. I am a complete nerd; I love to learn new things.
+I am Joseph Hodes, or if you know me on discord, HeccinTech. I am from Florida; I do programming as a hobby and hope to make it a profession one day. Like every programmer, I have so many side projects. I enjoy studying computer vision and helping out with javascript Discords. When I'm not consumed with research, work or Community college, I do 3d Printing, Programming, Computer Vision. If you give me any real-world problem, I guarantee I can solve it for you. I can pick up libraries and languages that are in the object-oriented programming paradigm really fast. I am a complete nerd; I love to learn new things.
 
 
 My discord is HeccinTech#0001. If you ever need help or just a friend to nerd out with, add me!
